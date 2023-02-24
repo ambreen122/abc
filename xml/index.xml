@@ -1,0 +1,26 @@
+<!-- <person gender="female">
+<! xml attribute -->
+<!-- <student>
+
+
+</student>
+</person>  -->
+<?xml-stylesheet type="text/css" href="index.css"?>
+<furniture>
+
+<h:table xmlns:h="https//www.furniture.com">
+<h:width>23</h:width>
+<h:height>7</h:height>
+</h:table>
+<shop></shop>
+
+ <!-- <table>
+<tr>
+<td>des</td>
+</tr>
+</table> -->
+
+</furniture>
+
+
+
